@@ -12,7 +12,7 @@ class Papa:
 
 if __name__ == "__main__":
     panapa = Papa(10, 10)
-    print('papa is the best')
+    print('papa is the best pst!!!')
     panapa.papaDoes()
 
        
